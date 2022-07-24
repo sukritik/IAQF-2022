@@ -1,4 +1,6 @@
 2022 IAQF Student Competition
+
+Problem Statement:
 It is generally accepted that one cannot predict the price of an individual security, but many believe that
 it may be possible to predict (or determine) the “hidden” state of the market (bear, bull, or static). There
 are a variety of approaches that could be used: hidden Markov models, Kalman filters, random forests,
